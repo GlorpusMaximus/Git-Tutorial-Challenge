@@ -9,3 +9,7 @@ Learning about Git and Github!!!!
 -git push 
 -git clone
 -git push
+
+## Cool Stuff
+
+We are now learning about branching
