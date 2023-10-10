@@ -1,3 +1,5 @@
 # Git Tutorial: Andrew Hamilton
 
 Github and Git tutorial challenge
+
+Learning about Git and Github
