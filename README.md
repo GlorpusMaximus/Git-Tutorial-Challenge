@@ -8,3 +8,4 @@ Learning about Git and Github
 -git pull
 -git push 
 -git clone
+-git push
